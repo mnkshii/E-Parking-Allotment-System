@@ -152,7 +152,7 @@ Parking Record Storage
 
 # 👩‍💻 Author
 
-**Heena , Meenakshi Pandey and Rohit Singh**  
+**Meenakshi Pandey**  
 B.Tech CSE(2nd year)
 
 ---
